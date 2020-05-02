@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "jiangtian83\JArray": "src/"
+            "jiangtian83\\JArray\\": "src/"
         }
     },
     "repositories": {
