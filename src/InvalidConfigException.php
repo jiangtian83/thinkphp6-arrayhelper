@@ -9,6 +9,7 @@
  * QQ: 284053253
  */
 
+namespace AILearning;
 
 /**
  * InvalidConfigException represents an exception caused by incorrect object configuration.

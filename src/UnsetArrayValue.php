@@ -9,6 +9,7 @@
  * QQ: 284053253
  */
 
+namespace AILearning;
 
 /**
  * Object that represents the removal of array value while performing [[ArrayHelper::merge()]].

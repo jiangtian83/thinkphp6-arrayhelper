@@ -9,6 +9,7 @@
  * QQ: 284053253
  */
 
+namespace AILearning;
 
 /**
  * InvalidParamException represents an exception caused by invalid parameters passed to a method.

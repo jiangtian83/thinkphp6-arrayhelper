@@ -8,6 +8,7 @@
  * QQ: 284053253
  */
 
+namespace AILearning;
 
 /**
  * ArrayHelper provides additional array functionality that you can use in your
