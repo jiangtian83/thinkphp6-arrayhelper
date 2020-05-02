@@ -1,7 +1,7 @@
 {
     "name": "jiangtian83/thinkphp6-arrayhelper",
-    "description": "a array helper from yii2",
-    "type": "package",
+    "description": "an array helper from yii2",
+    "type": "thinkphp6-extension",
     "license": "MIT",
     "keywords": ["yii2 thinkphp6 tp6 array"],
     "version": "1.0.0",

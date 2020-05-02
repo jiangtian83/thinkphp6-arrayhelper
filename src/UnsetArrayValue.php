@@ -9,7 +9,6 @@
  * QQ: 284053253
  */
 
-namespace JArray;
 
 /**
  * Object that represents the removal of array value while performing [[ArrayHelper::merge()]].

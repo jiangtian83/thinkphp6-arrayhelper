@@ -9,7 +9,6 @@
  * QQ: 284053253
  */
 
-namespace JArray;
 
 /**
  * InvalidConfigException represents an exception caused by incorrect object configuration.

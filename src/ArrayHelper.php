@@ -8,8 +8,6 @@
  * QQ: 284053253
  */
 
-namespace JArray;;
-
 
 /**
  * ArrayHelper provides additional array functionality that you can use in your

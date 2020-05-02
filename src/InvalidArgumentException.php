@@ -9,7 +9,6 @@
  * QQ: 284053253
  */
 
-namespace JArray;
 
 /**
  * InvalidParamException represents an exception caused by invalid parameters passed to a method.
