@@ -1,0 +1,28 @@
+{
+    "name": "jiangtian83/thinkphp6-arrayhelper",
+    "description": "a array helper from yii2",
+    "type": "package",
+    "license": "Apache License 2.0",
+    "keywords": ["yii2 thinkphp6 tp6 array"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "jiangtian",
+            "email": "jiangtian@zpy360.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "JArray": "src/"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
+    }
+}
